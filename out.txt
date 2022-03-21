@@ -1,0 +1,10 @@
+03-20 17:08:38.521   580  2294 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=net.ser1.fynelistbug/org.golang.app.GoNativeActivity bnds=[58,940][299,1267]} from uid 10129
+03-20 17:08:38.540   580  2294 V SplashScreenExceptionList: SplashScreen checking exception for package net.ser1.fynelistbug (target sdk:29) -> false
+03-20 17:08:38.633   580   630 I ActivityManager: Start proc 17590:net.ser1.fynelistbug/u0a150 for pre-top-activity {net.ser1.fynelistbug/org.golang.app.GoNativeActivity}
+03-20 17:08:38.674 17590 17590 I er1.fynenamebu: Late-enabling -Xcheck:jni
+03-20 17:08:38.925 17590 17590 W er1.fynenamebu: Unexpected CPU variant for X86 using defaults: x86_64
+03-20 17:08:39.236 17590 17590 W er1.fynenamebu: Can't mmap dex file /data/app/~~mriKUrJwKrYuHt8Q7IID_g==/net.ser1.fynelistbug-wEmGcr9IMhC836oE7qtMsw==/base.apk!classes.dex directly; please zipalign to 4 bytes. Falling back to extracting file.
+03-20 17:08:39.247 17590 17590 V GraphicsEnvironment: ANGLE Developer option for 'net.ser1.fynelistbug' set to: 'default'
+03-20 17:08:39.257 17590 17590 V GraphicsEnvironment: ANGLE GameManagerService for net.ser1.fynelistbug: false
+03-20 17:08:39.560 17590 17617 I Fyne    : subDir => file:///data/user/0/net.ser1.fynelistbug/files/fyne/fynelistbug/subdir
+03-20 17:08:39.563 17590     0 E Go  
